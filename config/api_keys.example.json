@@ -1,0 +1,8 @@
+{
+  "_comment": "Copy this to api_keys.json and fill in your API keys. Model configuration is in models.json.",
+  "openrouter_api_key": "",
+  "gemini_api_key": "",
+  "max_fix_attempts": 5,
+  "os_system": "windows",
+  "_note": "Model selection happens at startup. You can also set 'provider': 'ollama' or 'openrouter' in models.json."
+}

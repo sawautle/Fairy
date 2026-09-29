@@ -1,0 +1,44 @@
+# Secrets and authenticated user data
+config/api_keys.json
+controller/.env
+browser_data/
+
+# Runtime state and generated outputs
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.log
+tts_outputs/
+screenshots/
+memory/long_term.json
+memory/long_term_facts.json
+skills/.openrouter_blacklist.json
+generated_skills/*.py
+!generated_skills/__init__.py
+
+# Local binaries and downloaded model files
+drivers/*.exe
+openwakeword_models/*
+!openwakeword_models/.gitkeep
+
+# Junk and lock files
+.fairy_history
+controller/.discord_bot.lock
+fairy_last_response.txt
+fairy_verification_evidence.jsonl
+payload_deployment/
+*.lock
+pytest_output.txt
+
+# Never re-add: a prior commit shipped an actual remote-access-trojan script
+# named rat.py at the repo root. It has been removed. Do not restore it.
+rat.py
+rat_project/
+
+# Editor / OS cruft
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

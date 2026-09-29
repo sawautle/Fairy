@@ -1,0 +1,13 @@
+{
+    "_comment": "Fairy model configuration. Edit values here to change which models Fairy uses. This file does NOT contain any API keys.",
+    "_brain": "Main reasoning model. Use 'gemma4' for local Ollama (your downloaded Gemma4), or an OpenRouter model name for cloud.",
+    "_brain_note": "At startup, Fairy will ask which to use. This file sets the default.",
+    "brain": "gemma4",
+    "coder": "qwen2.5-coder:7b",
+    "_vision": "Vision model â€” eyes module. Llama 3.2 11B Vision uncensored for image/screen understanding.",
+    "vision": "llama-3.2-11b-vision-uncensored",
+    "vision_provider": "openrouter",
+    "ollama_url": "http://localhost:11434",
+    "_provider": "Provider choice: 'ollama' uses gemma4 from local Ollama, 'openrouter' uses cloud models",
+    "provider": "ollama"
+}

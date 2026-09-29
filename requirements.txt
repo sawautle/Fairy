@@ -1,0 +1,32 @@
+# Core
+requests
+httpx
+python-dotenv
+prompt_toolkit
+rich
+numpy
+
+# Local model runtime
+ollama
+
+# Web research skill (controller/web_research.py)
+beautifulsoup4
+
+# Discord bridge (controller/discord_bot.py) - optional, only needed if
+# you enable the Discord integration
+discord.py
+
+# Cloud vision fallback (skills/screen_processor.py) - optional
+google-genai
+sounddevice
+
+# Voice input (fairy.py) - optional, only needed for the voice/TUI entry
+# point; the text-only main.py does not need this
+faster-whisper
+
+# Windows-only: process/window control, used by vision + controller modules.
+# Comment this out if you port Fairy to Linux/macOS.
+pypiwin32; sys_platform == 'win32'
+
+# Dev/test
+pytest
