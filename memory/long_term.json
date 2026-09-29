@@ -1,0 +1,382 @@
+{
+  "sessions": [],
+  "preferences": {},
+  "projects": {},
+  "facts": [
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-14T15:38:25.697309"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-14T15:48:09.740332"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-14T16:17:04.228304"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-14T17:43:10.281426"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-14T22:45:37.858336"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-08-15T00:02:01.164794"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-15T14:25:28.771839"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-15T15:02:13.712712"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-08-15T15:50:21.711391"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-15T16:06:15.951112"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 98%. Briefly inform the user in their language.",
+      "time": "2026-08-15T17:36:59.805612"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-15T18:50:42.394980"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-15T22:59:20.592766"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-15T23:01:06.163897"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-25T00:46:29.248640"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-08-25T00:54:17.857986"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:05:11.994092"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 98%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:10:15.862081"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:15:22.073887"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:15:22.696346"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:18:17.246566"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:28:40.077867"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:39:56.501210"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:47:29.755999"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T13:59:04.368508"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T14:43:37.116285"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T14:53:15.304384"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T15:37:26.208128"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T15:45:58.148424"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 91% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T15:48:01.939844"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T15:52:11.118200"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T15:57:15.900609"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 91% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T16:03:23.331264"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-08-26T18:13:57.156974"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-26T18:22:26.942600"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T18:46:07.899870"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T19:00:10.431626"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T19:05:38.692703"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T19:14:39.780489"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 98%. Briefly inform the user in their language.",
+      "time": "2026-08-26T19:38:22.472578"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T19:53:13.384383"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-26T20:24:49.091994"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T20:31:17.986756"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-26T20:33:42.089838"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 90% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T21:18:51.582460"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 99% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T21:22:56.931729"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T21:23:13.191005"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 93% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T21:29:57.327961"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T21:30:08.537327"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 91% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-26T21:39:23.209977"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T21:39:34.579510"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-26T21:45:08.349445"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-26T23:37:18.680426"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-08-27T16:40:15.403292"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-27T16:47:09.261097"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-27T17:19:35.628072"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T18:02:08.318566"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T18:24:27.721735"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 98%. Briefly inform the user in their language.",
+      "time": "2026-08-27T18:36:59.390711"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T18:47:05.833886"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-27T19:39:34.056767"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-08-27T19:47:30.471654"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 90% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-27T20:02:57.396107"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 90% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-27T20:58:55.729740"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 90% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-27T21:08:42.418223"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T21:13:32.440073"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 90% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-27T21:16:18.802456"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T21:19:20.891508"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 92% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-08-27T21:22:02.945510"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T21:47:42.926938"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-27T22:03:20.512962"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:00:48.390482"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:01:25.470829"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:25:07.546300"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 95%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:30:43.714877"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:37:22.408075"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:45:58.718017"
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-08-28T01:51:13.748215"
+    }
+  ],
+  "last_updated": "2026-09-24T18:33:10.819834",
+  "system_alerts": [
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-07T19:22:16.783963",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 2
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 99%. Briefly inform the user in their language.",
+      "time": "2026-09-07T20:34:14.436289",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-13T15:27:19.440025",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 97%. Briefly inform the user in their language.",
+      "time": "2026-09-14T15:32:21.373832",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] RAM is at 91% — nearly exhausted. Warn the user in their language and suggest freeing memory.",
+      "time": "2026-09-24T15:09:50.057249",
+      "key": "system alert: [system_alert] ram is at n — nearly exhausted. warn the user in their language and suggest freeing memory.",
+      "count": 2
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 96%. Briefly inform the user in their language.",
+      "time": "2026-09-24T15:07:58.963858",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-24T15:24:23.654071",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-24T15:48:27.842732",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-24T17:33:41.346592",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 2
+    },
+    {
+      "text": "System alert: [SYSTEM_ALERT] GPU load is at 100%. Briefly inform the user in their language.",
+      "time": "2026-09-24T18:33:10.819776",
+      "key": "system alert: [system_alert] gpu load is at n. briefly inform the user in their language.",
+      "count": 1
+    }
+  ]
+}
